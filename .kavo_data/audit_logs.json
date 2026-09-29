@@ -1,0 +1,87 @@
+[
+  {
+    "id": "log_61gbxvgz",
+    "userId": "test_editor_user",
+    "action": "bot_deployed",
+    "resourceType": "deployment",
+    "resourceId": "bot_o6mmpekr",
+    "timestamp": 1790677797308,
+    "ip": "127.0.0.1",
+    "details": {
+      "name": "Telegram Poller Bot",
+      "version": "v2.0.0",
+      "entryFile": "bot.py"
+    }
+  },
+  {
+    "id": "log_wrinnghz",
+    "userId": "test_editor_user",
+    "action": "bot_created_empty",
+    "resourceType": "deployment",
+    "resourceId": "bot_o6mmpekr",
+    "timestamp": 1790677779958,
+    "ip": "127.0.0.1",
+    "details": {
+      "name": "Telegram Poller Bot",
+      "entryFile": "bot.py"
+    }
+  },
+  {
+    "id": "log_dux4jvwv",
+    "userId": "test_user_bot",
+    "action": "bot_created",
+    "resourceType": "deployment",
+    "resourceId": "bot_7gpa6ei5",
+    "timestamp": 1790677147226,
+    "ip": "127.0.0.1",
+    "details": {
+      "name": "Test Heartbeat Worker",
+      "entryFile": "test_bot.py"
+    }
+  },
+  {
+    "id": "log_ok884j69",
+    "userId": "test_user_247",
+    "action": "token_revoked",
+    "resourceType": "token",
+    "resourceId": "tok_4rmac6ob",
+    "timestamp": 1790676643039,
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log_kiw6wzaf",
+    "userId": "test_user_247",
+    "action": "token_created",
+    "resourceType": "token",
+    "resourceId": "tok_4rmac6ob",
+    "timestamp": 1790676630000,
+    "ip": "127.0.0.1",
+    "details": {
+      "name": "247 Test Token"
+    }
+  },
+  {
+    "id": "log_02y7pel7",
+    "userId": "SW3qYHZ6u5Qlj7NSv6a2sVH5i1r2",
+    "action": "token_created",
+    "resourceType": "token",
+    "resourceId": "tok_ochbppex",
+    "timestamp": 1790676371635,
+    "ip": "103.161.151.10",
+    "details": {
+      "name": "Default Production Key"
+    }
+  },
+  {
+    "id": "log_cqsnxzvo",
+    "userId": "SW3qYHZ6u5Qlj7NSv6a2sVH5i1r2",
+    "action": "token_created",
+    "resourceType": "token",
+    "resourceId": "tok_cjqkmlqi",
+    "timestamp": 1790676371490,
+    "ip": "103.161.151.10",
+    "details": {
+      "name": "Default Production Key"
+    }
+  }
+]

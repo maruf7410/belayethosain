@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tok_4rmac6ob",
+    "userId": "test_user_247",
+    "tokenHash": "55a2853c1c603b3399f00a98fcdf79c3a7f7da4c6aa58f03e17457753b59098a",
+    "tokenPrefix": "hst_live_1c49...21e9",
+    "name": "247 Test Token",
+    "createdAt": 1790676630000,
+    "lastUsedAt": 1790676643038,
+    "expiresAt": null,
+    "revokedAt": 1790676643039
+  },
+  {
+    "id": "tok_ochbppex",
+    "userId": "SW3qYHZ6u5Qlj7NSv6a2sVH5i1r2",
+    "tokenHash": "5adc063cb362fec0bd128eb0ded892732cd8651b0b9334477086103d2908d389",
+    "tokenPrefix": "hst_live_cf45...d59d",
+    "name": "Default Production Key",
+    "createdAt": 1790676371634,
+    "lastUsedAt": null,
+    "expiresAt": null,
+    "revokedAt": null
+  },
+  {
+    "id": "tok_cjqkmlqi",
+    "userId": "SW3qYHZ6u5Qlj7NSv6a2sVH5i1r2",
+    "tokenHash": "f0cc574097a08ff6d4078eaef56e6344565ac74ea13f333b45122fd1c0bef5e5",
+    "tokenPrefix": "hst_live_13f2...a1f5",
+    "name": "Default Production Key",
+    "createdAt": 1790676371490,
+    "lastUsedAt": null,
+    "expiresAt": null,
+    "revokedAt": null
+  }
+]
